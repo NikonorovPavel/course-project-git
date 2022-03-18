@@ -6,4 +6,4 @@
 1. Практические навыки в работе с программами моделирования (AutoCAD, CATIA V5)
 1. Навыки программирования
 
-![Photo](https://github.com/NikonorovPavel/course project git/blob/main/img:/604122317.jpeg)
+![Photo](https://github.com/NikonorovPavel/course-project-git/blob/main/img:/604122317.jpeg)
